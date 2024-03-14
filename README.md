@@ -7,7 +7,7 @@
     <img src="turmacn.png" alt="Logo" >
   </a>
 
-<h3 align="center">Projeto de Vida - Turma cN</h3>
+<h3 align="center">Projeto de Vida - Turma CN</h3>
 
   <p align="center">
     Projeto construído no Grupo de Formadores Trilha de Programação II | 1ª Jornada de 2024
